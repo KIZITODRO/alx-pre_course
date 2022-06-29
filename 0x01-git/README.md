@@ -3,3 +3,5 @@ ALX
 School
 ALX
 School
+ALX school is so cool!
+ALX School
